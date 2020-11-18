@@ -26,7 +26,7 @@ Employment Application
   <li>and much more</li>
 </ul>
 
-
+<p>System password is encrypted with Md5 and salt</p>
 <img src="https://i.ibb.co/SPNwwyR/mypet.png" alt="mypet" border="0">
 
 
