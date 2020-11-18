@@ -14,7 +14,8 @@ Employment Application
   <li>Statistic</li>
   <li>Search function</li>
 </ul>
-<ul>Employee information includes
+<h3>Employee information includes</h3>
+<ul>
   <li>Employee Image</li>
   <li>Employee Name</li>
   <li>Employee Surname</li> 
