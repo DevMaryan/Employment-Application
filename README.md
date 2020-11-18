@@ -8,7 +8,7 @@ Employment Application
 <ul>
   <li>Add Employee</li>
   <li>Update Employee</li>
-  <li>Delete Employee<li>
+  <li>Delete Employee</li>
   <li>Administrator Notes</li>
   <li>System lockdown</li>
   <li>Implemented Calculator</li>
