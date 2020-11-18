@@ -21,9 +21,12 @@ Employment Application
   <li>Employee Surname</li> 
   <li>Employee Address</li>
   <li>Employee email</li>
-  <li>Employee Phone<li>
+  <li>Employee Phone</li>
   <li>and much more</li>
 </ul>
 
 
 <img src="https://i.ibb.co/SPNwwyR/mypet.png" alt="mypet" border="0">
+
+
+<h3>The final version of this application should have fully operational POS.</h3>
