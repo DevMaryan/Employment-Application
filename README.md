@@ -2,8 +2,6 @@
 Employment Application
 <p>Built in <strong>Python</strong> using <strong>Tkinter</strong></p>
 <strong>The application is not fully uploaded on github!</strong>
-<h5>I'm working on this application for a while.</h5>
-<p>90% of the application is done. The only field I'm currently working on is 'Clock-in/out'.</p>
 <h3>Features</h3>
 <ul>
   <li>Add Employee</li>
